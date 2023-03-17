@@ -9,7 +9,7 @@ Sign up on CookieYes for free
 Choose your cookie consent banner layout
 Copy the cookie banner code and paste it to your website
 
-Guide: [How to add a cookie banner on a website](https://www.cookieyes.com/documentation/add-cookie-banner-to-website/)
+Guide: [How to add a cookie banner on a nextjs website](This documentation will guide you through setting up CookieYes on a Next.js website)
 
 <b>
 To load a script for all routes, import next/script and include the script directly in pages/_app.js . This script will load and execute when any route in your application is accessed. Next.js will ensure the script will only load once, even if a user navigates between multiple pages.
