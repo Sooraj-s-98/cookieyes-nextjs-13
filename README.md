@@ -9,7 +9,7 @@ Sign up on CookieYes for free
 Choose your cookie consent banner layout
 Copy the cookie banner code and paste it to your website
 
-Start here: <a href="https://gr3f.co/c/60900/bi0KP">Link</a>
+Start here: <a href="https://app.cookieyes.com/trial?plan=pro-monthly&ref=referred-h1&gr_at=485b68cff71f75609d5ad0922d49cfc1a61288f8&gr_code=bi0KP&gr_cs=get-usd-40-on-first-order-5&gr_ro=direct-email">Link</a>
 
 <b>
 To load a script for all routes, import next/script and include the script directly in pages/_app.js . This script will load and execute when any route in your application is accessed. Next.js will ensure the script will only load once, even if a user navigates between multiple pages.
